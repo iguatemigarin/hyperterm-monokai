@@ -10,4 +10,5 @@ Add `iguatemigarin/hyperterm-monokai` to the plugins list in your `~/.hyper.js` 
 
 ## License
 
-MIT © [Badr Chaouai](http://arkhamdev.com)
+
+MIT © [Badr Chaouai](http://arkhamdev.com) [Iguatemi Garin](http://arkhamdev.com)
