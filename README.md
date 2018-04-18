@@ -1,4 +1,4 @@
-# hyperterm-monokai
+# A fork of hyperterm-monokai with clearer font for WSL
 
 > Monokai theme for [HyperTerm](https://hyperterm.org)
 
@@ -6,7 +6,7 @@
 
 ## Install
 
-Add `hyperterm-monokai` to the plugins list in your `~/.hyper.js` config file.
+Add `iguatemigarin/hyperterm-monokai` to the plugins list in your `~/.hyper.js` config file.
 
 ## License
 

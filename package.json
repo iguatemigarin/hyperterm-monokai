@@ -1,14 +1,16 @@
 {
-  "name": "hyperterm-monokai",
-  "version": "0.1.2",
-  "description": "a monokai theme for Hyperterm",
+  "name": "hyperterm-monokai-for-wsl",
+  "version": "1.0.0",
+  "description": "a monokai theme for Hyperterm for WSL",
   "license": "MIT",
-  "repository": "arkhamdev/hyperterm-monokai.git",
+  "repository": "iguatemigarin/hyperterm-monokai.git",
   "files": [
     "index.js"
   ],
   "keywords": [
     "hyperterm",
-    "hyperterm-theme"
+    "hyperterm-theme",
+    "monokai",
+    "wsl"
   ]
 }

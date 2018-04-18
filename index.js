@@ -7,7 +7,7 @@ const colors = [
   '#F92672', // pink
   '#A6E22E', // green
   '#FD971F', // orange
-  '#AE81FF', // purple
+  '#E0E0F0', // cold white-ish
   '#66D9EF', // blue
   '#38CCD1', // cyan
   '#ffffff', // white
@@ -24,6 +24,8 @@ const colors = [
 
 exports.decorateConfig = (config) => (
   Object.assign({}, config, {
+    shell: 'C:\\Windows\\System32\\wsl.exe',
+    shellArgs: [],
     backgroundColor,
     foregroundColor,
     cursorColor: 'rgba(248, 248, 240, 0.5)',
