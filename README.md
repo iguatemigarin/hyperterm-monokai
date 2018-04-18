@@ -6,7 +6,7 @@
 
 ## Install
 
-Add `iguatemigarin/hyperterm-monokai` to the plugins list in your `~/.hyper.js` config file.
+Add `hyperterm-monokai-for-wsl` to the plugins list in your `~/.hyper.js` config file.
 
 ## License
 
