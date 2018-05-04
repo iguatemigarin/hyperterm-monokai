@@ -5,7 +5,7 @@ const foregroundColor = '#F8F8F0';
 const colors = [
   backgroundColor,
   '#F92672', // pink
-  '#A6E22E', // green
+  '#229b64', // green
   '#FD971F', // orange
   '#E0E0F0', // cold white-ish
   '#66D9EF', // blue
@@ -13,7 +13,7 @@ const colors = [
   '#ffffff', // white
   '#49483E', // brown gray
   '#F92672', // pink
-  '#A6E22E', // green
+  '#229b64', // green
   '#FD971F', // orange
   '#AE81FF', // purple
   '#66D9EF', // blue
